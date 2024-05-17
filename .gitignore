@@ -1,0 +1,5 @@
+# Packaged extension binary
+*.vsix
+
+# macOS
+.DS_Store
